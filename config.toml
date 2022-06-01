@@ -1,0 +1,4 @@
+baseURL = 'https://PavlosP1987.gitlab.io/intranet-test'
+languageCode = 'en-us'
+title = 'AADE INTRANET' 
+theme = "ananke" 
